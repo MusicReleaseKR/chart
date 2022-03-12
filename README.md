@@ -1,7 +1,6 @@
-#  Title
+# CHART
 
-- 
+## [HANTEO](https://github.com/MusicReleaseKR/hanteo)
 
-## Category
 
-- 
+## GAON
