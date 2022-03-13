@@ -7,4 +7,4 @@ https://musicreleasekr.github.io/hanteo/all.xml
 - https://musicreleasekr.github.io/hanteo/schedule.xml
 - https://musicreleasekr.github.io/hanteo/schedule_legacy.xml
 
-## GAON
+## [GAON](https://github.com/MusicReleaseKR/gaon)
