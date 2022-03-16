@@ -1,9 +1,8 @@
-[]
-title = ""
-url = ""
-entrySelector = ""
-titleSelector = ""
-linkSelector = ""
-contentSelector = ""
-imageSelector = ""
+[gaonchart_chart_digital_week]
+title = "가온차트 ─ 디지털차트 ─ 주간"
+url = "http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&termGbn=week"
+entrySelector = "div.chart table tbody tr:not(:first-child)"
+titleSelector = "td.subject p:nth-child(1)"
+linkSelector = "*"
+contentSelector = "td.subject p.singer"
 waitUntil = "networkidle"
